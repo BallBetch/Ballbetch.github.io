@@ -35,7 +35,7 @@ body {
 
   .BB {
     display: inline-block;
-    margin-left: 1%;
+    margin-left: 2%;
     font-size: 6vw;
     margin-bottom: 20px;
     transform: scale(1, 2);
@@ -55,6 +55,7 @@ body {
     .L {
       display: inline-block;
         font-size: 6vw;
+        margin-left: 2%;
         margin-bottom: 20px;
         transform: scale(1, 2);
         -webkit-text-stroke: 1px white;
